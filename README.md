@@ -41,6 +41,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Git](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
+![Jupyter notebook](https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge)
+
 
 ### BI и визуализация
 ![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge&logo=apache&logoColor=white)
