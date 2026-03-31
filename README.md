@@ -69,7 +69,7 @@
 ## Что я умею
 
 - Писать SQL-запросы для извлечения данных, агрегации и расчета метрик;
-- Анализировать данные с помощью Python и библиотек pandas, NumPy, matplotlib и seaborn;
+- Анализировать данные с помощью Python и библиотек Pandas, NumPy;
 - Строить дашборды и отчеты в Apache Superset и Yandex DataLens;
 - Проводить анализ A/B-тестов и применять статистические методы;
 - Работать с бизнес- и продуктными метриками;
@@ -101,28 +101,6 @@
 ### 5. Анализ инженерных данных
 **Стек:** Python, Excel, статистика  
 Проект, показывающий, как экспериментальные или технические данные можно анализировать и преобразовывать в практические выводы.
-
----
-
-## Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
-## Сейчас изучаю
-
-- Продвинутый SQL для аналитики
-- Python для анализа данных и автоматизации
-- Продуктовую аналитику
-- Статистические тесты и эксперименты
-- Лучшие практики построения дашбордов и BI
 
 ---
 
