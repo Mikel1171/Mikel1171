@@ -5,7 +5,7 @@
   <a href="mailto:topilinmik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
   <a href="https://www.linkedin.com/in/michail-topilin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
   <a href="https://t.me/makentosh117"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+ 
 </p>
 
 ---
@@ -132,10 +132,3 @@
 
 ---
 
-## Примечания
-
-Перед публикацией этого README обновите:
-- `YOUR_USERNAME`
-- `YOUR_LINKEDIN`
-- `YOUR_TELEGRAM`
-- ссылки на репозитории в разделе **Избранные проекты**
