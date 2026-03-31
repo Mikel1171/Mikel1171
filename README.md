@@ -43,6 +43,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
 ![Jupyter notebook](https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge)
+![Redash](https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge)
 
 
 ### BI и визуализация
