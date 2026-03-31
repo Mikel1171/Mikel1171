@@ -1,4 +1,8 @@
-<h1 align="center">👋 Привет, я Михаил - аналитик данных с инженерным бэкграундом </h1>
+<p align="center">
+  <img src="dashboard.svg" alt="Data Analytics Dashboard" width="50%">
+</p>
+
+<h1 align="center">👋 Привет, я Михаил - аналитик данных с инженерным бэкграундом в нефтегазовой сфере </h1>
 
 
 <p align="center">
