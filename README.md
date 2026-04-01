@@ -82,29 +82,41 @@
 
 ---
 
-## Избранные проекты
+## Проекты
 
-> Замените описания ниже ссылками на ваши реальные репозитории.
+### 1. Retention-анализ мобильной игры
 
-### 1. Анализ A/B-теста
-**Стек:** Python, SQL, pandas, scipy, matplotlib  
-Анализ результатов эксперимента, сравнение метрик, проверка статистической значимости и формирование бизнес-выводов.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### 2. Дашборд продуктовых метрик
-**Стек:** SQL, Apache Superset / DataLens  
-Дашборд для отслеживания пользовательской активности, CTR, retention и других ключевых продуктовых метрик.
+Разработка функции для расчета retention по когортам пользователей, построение retention heatmap и анализ динамики удержания игроков по дням жизни.
 
-### 3. SQL-кейс
-**Стек:** SQL, PostgreSQL / ClickHouse  
-Сложные SQL-запросы для анализа поведения пользователей, анализа воронки и расчета метрик.
+---
 
-### 4. Прогнозирование временных рядов
-**Стек:** Python, pandas, библиотеки для прогнозирования  
-Прогнозирование бизнес- или операционных метрик с помощью анализа временных рядов.
+### 2. Анализ A/B-теста акционных предложений
 
-### 5. Анализ инженерных данных
-**Стек:** Python, Excel, статистика  
-Проект, показывающий, как экспериментальные или технические данные можно анализировать и преобразовывать в практические выводы.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+Сравнение контрольной и тестовой групп по ключевым метрикам монетизации, расчет CR, ARPU, ARPPU, анализ распределений и проверка статистической значимости различий.
+
+---
+
+### 3. Разработка системы метрик для игрового события
+
+![Product Analytics](https://img.shields.io/badge/Product_Analytics-1F4E79?style=for-the-badge)
+![Metric Design](https://img.shields.io/badge/Metric_Design-2E6F95?style=for-the-badge)
+![Funnel Analysis](https://img.shields.io/badge/Funnel_Analysis-4F86C6?style=for-the-badge)
+![Retention Metrics](https://img.shields.io/badge/Retention_Metrics-6C9BCF?style=for-the-badge)
+
+Проектирование набора продуктовых метрик для оценки игрового ивента: охват, вовлеченность, прогресс, завершение события, влияние на удержание и монетизацию, а также пересмотр системы метрик при усложнении игровой механики.
 
 ---
 
