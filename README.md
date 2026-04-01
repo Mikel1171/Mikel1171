@@ -104,11 +104,12 @@
 🔗 **Ссылка на проект:** 
 [Открыть notebook](https://github.com/Mikel1171/projects/blob/main/retention-analysis/retention.ipynb)
 
-
 ---
 
-### 2. Анализ A/B-теста акционных предложений
+### 🧪 Анализ A/B-теста акционных предложений  
+**Задача:** сравнить контрольную и тестовую группы по ключевым метрикам монетизации и оценить статистическую значимость различий.  
 
+**Стек:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -116,7 +117,15 @@
 ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-Сравнение контрольной и тестовой групп по ключевым метрикам монетизации, расчет CR, ARPU, ARPPU, анализ распределений и проверка статистической значимости различий.
+**Что сделано:**
+- рассчитаны CR, ARPU и ARPPU;
+- проведен сравнительный анализ распределений;
+- выполнена статистическая проверка различий;
+- подготовлена интерпретация результатов теста.
+
+**Результат:** сформирован аналитический вывод о влиянии акционного предложения на пользовательское поведение и монетизацию.
+
+🔗 **Ссылка на проект:**  
 
 ---
 
