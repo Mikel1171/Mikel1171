@@ -166,7 +166,7 @@
 <img src="https://raw.githubusercontent.com/Mikel1171/projects/main/assets/dashboard_app.jpg" alt="App Dashboard" height="285"> </a>
 <a href="https://github.com/Mikel1171/projects/blob/main/assets/dashboard_videogames.jpg">
 <img src="https://raw.githubusercontent.com/Mikel1171/projects/main/assets/dashboard_videogames.jpg" alt="Video Games Dashboard" height="285"> </a>
-</p> <p align="center"> <sub>Retention</sub> • <sub>App analytics</sub> • <sub>Video games analytics</sub> </p>
+
 
 ---
 
