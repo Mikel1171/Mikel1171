@@ -126,7 +126,7 @@
 **Результат:** сформирован аналитический вывод о влиянии акционного предложения на пользовательское поведение и монетизацию.
 
 🔗 **Ссылка на проект:**
-[Открыть notebook](https://github.com/Mikel1171/projects/blob/main/AB%20test/AB_test.ipynb)
+[Открыть notebook](https://github.com/Mikel1171/projects/blob/main/AB_test/AB_test.ipynb)
 
 ---
 
