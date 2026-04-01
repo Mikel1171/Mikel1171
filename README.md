@@ -161,11 +161,11 @@
 
 <p align="center">
 <a href="https://github.com/Mikel1171/projects/blob/main/assets/Dashboard_retention.jpg">
-<img src="https://raw.githubusercontent.com/Mikel1171/projects/main/assets/Dashboard_retention.jpg" alt="Retention Dashboard" height="285"> </a>
+<img src="https://raw.githubusercontent.com/Mikel1171/projects/main/assets/Dashboard_retention.jpg" alt="Retention Dashboard" height="265"> </a>
 <a href="https://github.com/Mikel1171/projects/blob/main/assets/dashboard_app.jpg">
-<img src="https://raw.githubusercontent.com/Mikel1171/projects/main/assets/dashboard_app.jpg" alt="App Dashboard" height="285"> </a>
+<img src="https://raw.githubusercontent.com/Mikel1171/projects/main/assets/dashboard_app.jpg" alt="App Dashboard" height="265"> </a>
 <a href="https://github.com/Mikel1171/projects/blob/main/assets/dashboard_videogames.jpg">
-<img src="https://raw.githubusercontent.com/Mikel1171/projects/main/assets/dashboard_videogames.jpg" alt="Video Games Dashboard" height="285"> </a>
+<img src="https://raw.githubusercontent.com/Mikel1171/projects/main/assets/dashboard_videogames.jpg" alt="Video Games Dashboard" height="265"> </a>
 
 
 ---
