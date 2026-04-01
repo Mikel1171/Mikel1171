@@ -84,18 +84,26 @@
 
 ## Проекты
 
-### 1. Retention-анализ мобильной игры
-## Проекты
+### 📱 Retention-анализ мобильной игры  
+**Задача:** проанализировать удержание пользователей по когортам и выявить динамику возврата игроков по дням жизни.  
 
-[Retention Analysis](https://github.com/Mikel1171/projects/blob/main/retention-analysis/retention.ipynb)
-
+**Стек:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-Разработка функции для расчета retention по когортам пользователей, построение retention heatmap и анализ динамики удержания игроков по дням жизни.
+**Что сделано:**
+- рассчитан retention по когортам пользователей;
+- построена retention heatmap;
+- проанализирована динамика удержания по дням жизни;
+- сформулированы выводы о поведении игроков.
+**Результат:** получена наглядная картина удержания, позволяющая оценить качество раннего пользовательского опыта и выявить точки снижения вовлеченности.
+
+🔗 **Ссылка на проект:** 
+[Открыть notebook](https://github.com/Mikel1171/projects/blob/main/retention-analysis/retention.ipynb)
+
 
 ---
 
