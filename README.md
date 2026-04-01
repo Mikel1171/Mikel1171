@@ -130,15 +130,30 @@
 
 ---
 
-### 3. Разработка системы метрик для игрового события
+### 📈 Прогнозирование пользовательской активности и нагрузки на серверы  
 
-![Product Analytics](https://img.shields.io/badge/Product_Analytics-1F4E79?style=for-the-badge)
-![Metric Design](https://img.shields.io/badge/Metric_Design-2E6F95?style=for-the-badge)
-![Funnel Analysis](https://img.shields.io/badge/Funnel_Analysis-4F86C6?style=for-the-badge)
-![Retention Metrics](https://img.shields.io/badge/Retention_Metrics-6C9BCF?style=for-the-badge)
+**Задача:** спрогнозировать изменение активности пользователей на горизонте 30 дней, чтобы оценить будущую нагрузку на инфраструктуру приложения.  
 
-Проектирование набора продуктовых метрик для оценки игрового ивента: охват, вовлеченность, прогресс, завершение события, влияние на удержание и монетизацию, а также пересмотр системы метрик при усложнении игровой механики.
+**Стек:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Orbit](https://img.shields.io/badge/Orbit-Forecasting-4C72B0?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![ArviZ](https://img.shields.io/badge/ArviZ-Bayesian_Analysis-6A5ACD?style=for-the-badge)
 
+**Что сделано:**
+- выбрана целевая метрика `total_events = views + likes` как наиболее близкая к реальной серверной нагрузке;
+- построены дневные временные ряды активности пользователей;
+- учтены внешние события через регрессоры: флэшмоб и единичный технический инцидент;
+- протестированы несколько моделей прогнозирования (`DLT`, `LGT`, `KTR`);
+- проведены backtesting, подбор параметров и сравнение качества моделей по метрикам ошибки;
+- дополнительно проверена устойчивость итоговой модели через MCMC-диагностику.
+
+**Результат:** выбрана модель `LGT`, показавшая наилучшее качество на горизонте 30 дней. Получен прогноз нагрузки, который можно использовать для планирования инфраструктурных ресурсов и оценки будущей активности пользователей.
+
+🔗 **Ссылка на проект:**  
+[Добавить ссылку на проект](#)
 ---
 
 ## Контакты
